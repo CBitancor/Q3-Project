@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Index</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .img1 {
+            width: 60px;
+            border-radius: 100%;
+        }
+
+        .navbar {
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+
+        body {
+            background-image: url('https://www.creativefabrica.com/wp-content/uploads/2022/01/28/Grey-Gradient-Background-Image-Graphics-24245757-1-1-580x390.jpg');
+            height: 150px;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+            text-align: center;
+            margin: 0;
+        }
+
+        .paragraphs {
+            color: black;
+            text-align: left;
+            padding-right: 20px;
+        }
+
+        .additional {
+            background-color: darkgrey;
+            padding: 5px;
+            margin-bottom: 10px;
+        }
+
+        .apo-whang-od {
+            font-size: 35px;
+            font-weight: bold;
+        }
+
+        .image-lorem {
+            display: block;
+            margin-top: 10px;
+            margin-left: auto;
+            margin-right: auto;
+            width: 350px;
+            float: right;
+            border-radius: 15%;
+            border: 5px solid grey;
+        }
+
+        .image-lorem-container {
+            text-align: center;
+        }
+
+        .under-image {
+            text-align: right;
+        }
+
+
+        .image-container {
+            margin-top: 10px;
+            text-align: center;
+        }
+
+        .image-container img {
+            display: block;
+            margin-top: 10px;
+            margin-left: auto;
+            margin-right: auto;
+            width: 250px;
+            border-radius: 50%;
+            border: 5px solid grey;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-sm navbar-dark bg-dark"> 
+        <div class="container-fluid">
+            <div class="img">
+                <img src="" class="img1">
+            </div>
+            <div class="collapse navbar-collapse" id="mynavbar">
+                <ul class="navbar-nav me-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Fashion</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Beauty</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Lifestyle</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Runway</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <br>
+    <p><strong>Featured artist</strong></p>
+    <div class="tables">
+        <div class="additional">
+            <p>Listing Advanced Search</p>
+        </div>
+        <p class="apo-whang-od">Apo Whang Od</p>
+        <hr>
+        <div class="image-lorem-container">
+            <img src="https://assets.vogue.com/photos/642f51527e76a5018e56e0bc/master/w_960,c_limit/VPH_0323_STORY_DIGITAL%20PHOTOS50.jpg" class="image-lorem">
+        </div>
+
+        <div class="paragraphs">
+        <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+       
+
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+            consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+            proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </p>
+
+
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+            consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+            proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </p>
+
+
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+            consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+            proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </p>
+
+
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+            consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+            proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </p>
+
+
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+            consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+            proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </p>
+
+        <div class="under-image">
+            <p> Image Source by: PinayTraveller. (2017, May 16). Getting inked by Whang Od. Pinay Traveller. https://pinaytraveller.com/archives/8085
+            </p>
+            <p>
+            </p>
+        </div>
+        <hr>
+         <div class="container">
+            <div class="row">
+                <div class="col-md-4 image-container">
+                    <img src="https://i0.wp.com/pinaytraveller.com/wp-content/uploads/2013/06/Whang_Od_ink_PinayTraveller.jpg?w=1200&ssl=1">
+                </div>
+                <div class="col-md-4 image-container">
+                    <img src="https://i0.wp.com/pinaytraveller.com/wp-content/uploads/2013/05/Buscalan-36sm.jpg">
+                </div>
+                <div class="col-md-4 image-container">
+                    <img src="https://i0.wp.com/pinaytraveller.com/wp-content/uploads/2013/05/Buscalan-4-sm.jpg?w=640&ssl=1">
+                </div>
+            </div>
+        </div>
+    </div>
+    <hr>
+
+</body>
+</html>
